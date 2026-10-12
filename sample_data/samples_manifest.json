@@ -1,0 +1,57 @@
+[
+  {
+    "id": "HC_Patient_101",
+    "category": "Control",
+    "label": 0,
+    "mmse": 29.0,
+    "age": 68,
+    "gender": "Female",
+    "transcript": "Well, in this picture, the boy is standing on a stool trying to reach into the cookie jar in the upper cupboard. The stool is tilting and he looks like he might fall. His sister is reaching up with her hand to ask for a cookie. Meanwhile, the mother is drying dishes at the kitchen sink, but the water is overflowing onto the floor because she is distracted looking out the open window.",
+    "audio_path": "C:\\Users\\91990\\.gemini\\antigravity\\scratch\\dementia_speech_nlp_llm\\sample_data\\HC_Patient_101_Control.wav",
+    "duration_sec": 34.49775
+  },
+  {
+    "id": "HC_Patient_102",
+    "category": "Control",
+    "label": 0,
+    "mmse": 28.0,
+    "age": 72,
+    "gender": "Male",
+    "transcript": "I see a kitchen scene. The mother is washing a plate and the water is running over the edge of the sink onto the floor. Behind her, a little boy has climbed onto a wobbly stool to get cookies from the jar and the stool is about to tip over. A young girl is standing beside him waiting for him to hand her one.",
+    "audio_path": "C:\\Users\\91990\\.gemini\\antigravity\\scratch\\dementia_speech_nlp_llm\\sample_data\\HC_Patient_102_Control.wav",
+    "duration_sec": 29.4559375
+  },
+  {
+    "id": "MCI_Patient_201",
+    "category": "MCI",
+    "label": 1,
+    "mmse": 23.0,
+    "age": 74,
+    "gender": "Female",
+    "transcript": "The... um... lady is by the water, washing the... plates. And the water is spilling on the floor. And the kids are... well, the boy is on the little chair, trying to take the... cookies from the jar. And the girl wants one too, but the chair is slipping.",
+    "audio_path": "C:\\Users\\91990\\.gemini\\antigravity\\scratch\\dementia_speech_nlp_llm\\sample_data\\MCI_Patient_201_MCI.wav",
+    "duration_sec": 34.087625
+  },
+  {
+    "id": "AD_Patient_301",
+    "category": "Dementia",
+    "label": 1,
+    "mmse": 17.0,
+    "age": 77,
+    "gender": "Male",
+    "transcript": "There is a... uh... woman. She is doing something with the... the dishes. The... water is coming out... oh my, on the floor. And over there, the... uh... the little one... the boy is getting into the... that thing up there... the jar with the sweet things. And he's... uh... falling down maybe. The stool... the stool is broke... tipping.",
+    "audio_path": "C:\\Users\\91990\\.gemini\\antigravity\\scratch\\dementia_speech_nlp_llm\\sample_data\\AD_Patient_301_Dementia.wav",
+    "duration_sec": 68.741125
+  },
+  {
+    "id": "AD_Patient_302",
+    "category": "Dementia",
+    "label": 1,
+    "mmse": 12.0,
+    "age": 81,
+    "gender": "Female",
+    "transcript": "Well... um... somebody is there. She is... uh... look at that water... it's all going down there on the... thing. And the boy... he is on that... that wooden thing. He wants the... you know... the good things inside the top. And she is... uh... um... laughing or looking... I don't know what she is doing.",
+    "audio_path": "C:\\Users\\91990\\.gemini\\antigravity\\scratch\\dementia_speech_nlp_llm\\sample_data\\AD_Patient_302_Dementia.wav",
+    "duration_sec": 74.913375
+  }
+]

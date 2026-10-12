@@ -1,0 +1,4 @@
+Project Title: Early Dementia & Cognitive Decline Screening from Spontaneous Speech using Acoustic NLP and Fine-Tuned Large Language Models
+File: MTech_Synopsis_23_Dementia_Speech_NLP_LLM.pdf
+Status: Complete Executive Synopsis
+Domain: Pure Computer Science & AI (Dementia ML / NLP & LLMs)

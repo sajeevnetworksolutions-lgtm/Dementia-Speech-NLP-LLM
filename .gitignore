@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model binaries & checkpoints (>100MB GitHub limit)
+saved_models/*.pt
+*.pt
+*.bin
+*.onnx
+
+# Audio base64 cache & large blobs
+sample_data/audio_base64.json
+
+# Caching & environments
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.venv/
+venv/
+env/
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
