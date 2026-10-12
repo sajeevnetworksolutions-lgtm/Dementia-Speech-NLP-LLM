@@ -2,7 +2,17 @@
 
 > **M.Tech Dissertation Project (NLP, LLMs & Speech AI)**  
 > **Academic Year:** 2026–2027 | Department of Computer Science & Engineering  
-> **Benchmark Validation:** DementiaBank Pitt Corpus & Interspeech ADReSS Challenge
+> **Benchmark Validation:** DementiaBank Pitt Corpus & Interspeech ADReSS Challenge  
+> **GitHub Repository:** [https://github.com/sajeevnetworksolutions-lgtm/Dementia-Speech-NLP-LLM](https://github.com/sajeevnetworksolutions-lgtm/Dementia-Speech-NLP-LLM)
+
+---
+
+## 📄 Publications & Documentation
+* 📄 **Research Paper Manuscript (PDF):** [`Dementia_Speech_AI_Research_Paper_Comprehensive.pdf`](./Dementia_Speech_AI_Research_Paper_Comprehensive.pdf)
+* 📋 **Technical Project Report (PDF):** [`Dementia_Speech_AI_Project_Report.pdf`](./Dementia_Speech_AI_Project_Report.pdf)
+* 🎓 **Viva-Voce Oral Defense Guide:** [`VIVA_DEFENSE_GUIDE.md`](./VIVA_DEFENSE_GUIDE.md)
+* 📝 **Dissertation Chapter Report:** [`DISSERTATION_REPORT.md`](./DISSERTATION_REPORT.md)
+* 🔬 **Full Research Paper Source:** [`DETAILED_RESEARCH_PAPER_REPORT.md`](./DETAILED_RESEARCH_PAPER_REPORT.md)
 
 ---
 
